@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\224457\noah's second project\noah's second project\source.cpp(28): warning C4101: 'calc_5': unreferenced local variable
+  Noah's second project.vcxproj -> C:\Users\224457\Noah's second project\Debug\Noah's second project.exe
+  Noah's second project.vcxproj -> C:\Users\224457\Noah's second project\Debug\Noah's second project.pdb (Partial PDB)
